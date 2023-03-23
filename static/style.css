@@ -1,0 +1,39 @@
+body {
+  width: 50%;
+  margin: auto;
+  background-color: bisque;
+}
+
+td {
+  height: 4rem;
+  width: 4rem;
+  font-size: 50px;
+}
+
+#game {
+  text-align: center;
+}
+
+#board {
+  margin: auto;
+}
+
+#timer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 25px
+}
+
+.guess-form {
+  margin-top: 2rem;
+}
+
+#message {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 20px;
+}
+
+#game-data {
+  font-size: 20px;
+}
